@@ -16,19 +16,6 @@ An AI-powered conversational assistant that represents my professional profile a
 
 ---
 
-## 📁 Project Structure
-
-career_conversations/
-│
-├── app.py Main chatbot application
-├── linkedin.pdf Resume exported from LinkedIn
-├── summary.txt Personal summary text
-├── me/
-│ ├── linkedin.pdf LinkedIn PDF used by model
-│ └── summary.txt Summary used by model
-└── .gradio/ Temporary system files (ignored in git)
----
-
 ## How It Works
 
 - The app loads your LinkedIn PDF and summary text
@@ -96,17 +83,3 @@ http://127.0.0.1:7860
 
 Shriya Yadavalli  
 Personal AI career assistant project
-
----
-
-## Project Structure Overview
-
-career_conversations/
-│
-├── app.py Main chatbot application
-├── linkedin.pdf Resume exported from LinkedIn
-├── summary.txt Personal summary text
-├── me/
-│ ├── linkedin.pdf LinkedIn PDF used by model
-│ └── summary.txt Summary used by model
-└── .gradio/ Temporary system files (ignored in git)
