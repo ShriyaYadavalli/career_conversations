@@ -1,4 +1,4 @@
-# Career Conversations AI Agent 🤖
+# Career Conversations AI Agent
 
 An AI-powered conversational assistant that represents my professional profile and acts as a personal portfolio chatbot. It answers questions about my background, skills, and experience while also logging user interest and unknown queries using tool-calling.
 
