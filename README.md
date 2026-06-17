@@ -20,14 +20,13 @@ An AI-powered conversational assistant that represents my professional profile a
 
 career_conversations/
 │
-├── app.py — Main chatbot application
-├── linkedin.pdf — Resume exported from LinkedIn
-├── summary.txt — Personal summary text
+├── app.py Main chatbot application
+├── linkedin.pdf Resume exported from LinkedIn
+├── summary.txt Personal summary text
 ├── me/
-│   ├── linkedin.pdf — LinkedIn PDF used by the model
-│   └── summary.txt — Summary used by the model
-└── .gradio/ — Temporary system files (ignored in Git)
-
+│ ├── linkedin.pdf LinkedIn PDF used by model
+│ └── summary.txt Summary used by model
+└── .gradio/ Temporary system files (ignored in git)
 ---
 
 ## How It Works
